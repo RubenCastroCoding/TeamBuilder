@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/treyeckels/team-builder.git"
+    "url": "git+https://github.com/RubenCastroCoding/TeamBuilder"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/treyeckels/team-builder/issues"
+    "url": "https://github.com/RubenCastroCoding/TeamBuilder/issues"
   },
-  "homepage": "https://github.com/treyeckels/team-builder#readme",
+  "homepage": "https://github.com/RubenCastroCoding/TeamBuilder",
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^28.1.0"
